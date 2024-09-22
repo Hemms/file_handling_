@@ -1,0 +1,6 @@
+Line 1: Hello World!
+Line 2: 12345
+Line 3: Python is awesome!
+Line 4: Appending text.
+Line 5: 67890
+Line 6: More Python fun!
